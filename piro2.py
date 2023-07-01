@@ -1,3 +1,3 @@
 def piro2():
-    print("귀여운크라켄")
+    print("this is a cart")
     return 1
